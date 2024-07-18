@@ -1,2 +1,2 @@
-#  <#Title#>
+#  Simple Calculator Project
 
